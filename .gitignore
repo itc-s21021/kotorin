@@ -1,3 +1,4 @@
+docker/
 HELP.md
 .gradle
 build/
@@ -35,3 +36,8 @@ out/
 
 ### VS Code ###
 .vscode/
+/.gitignore
+/docker/db/
+/docker/redis/
+/docker/docker-compose.yml
+/docker/
